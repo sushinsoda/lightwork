@@ -2,7 +2,7 @@
 
 From Python basics to LED installations, VJ projections and a visual product pitch for Spotify — 
 built by an analytics engineer learning creative technology, one commit at a time.
-Hopefully live events and installations in the future (fingers crossed).
+Hopefully live events, installations and product launch in the future (fingers crossed).
 
 ## The Vision
 Music and data as raw material. Light as output.
